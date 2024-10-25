@@ -1,5 +1,5 @@
 
-fullName = "Akash Bhagawan Rakate";
+ var fullName;
 console.log("Full name: ", fullName);
 
 Name = "Akash Rakate";
